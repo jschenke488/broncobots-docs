@@ -1,0 +1,17 @@
+site_name: Broncobots Documentation
+theme: readthedocs
+markdown_extensions:
+  - admonition
+nav:
+  - Home: index.md
+  - Mechanical:
+    - Mechanical: mechanical/mechanical.md
+  - Programming:
+    - Programming: prog/prog.md
+  - Prototyping:
+    - Prototyping: prototype/prototype.md
+  - Team Structure:
+    - Team Structure: team/team.md
+  - Fundraising:
+    - Fundraising: fundraising/fundraising.md
+
